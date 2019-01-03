@@ -10,6 +10,10 @@ INDIE is a Virginia Limitied Liability Company which owns subsidiaries in the fo
 - Real Estate
 
 ### Contact
-
-Reston, VA
+```
+INDIE LLC
+11160-C1 South Lakes Dr.
+Suite 622
+Reston, VA 20191
+```
 
